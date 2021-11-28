@@ -1,9 +1,11 @@
 #utilities
 .vscode
+*.env
 
 #dependencies
 src/node_modules/
+src/database/
 
 #secrets
-src/config.json
 src/database/model/databaseConfig.js
+
