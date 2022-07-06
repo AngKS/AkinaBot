@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.5.6",
     "@distube/soundcloud": "^0.2.0",
     "@distube/spotify": "^0.6.0",
